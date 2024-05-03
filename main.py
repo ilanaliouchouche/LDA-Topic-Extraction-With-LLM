@@ -30,7 +30,7 @@ class TopicAlignmentPipeline:
     4. Align the topics from the input text with the topics of the LLM.
     5. Return the aligned topics.
 
-    After the pipeline is executed, we can analyze the aligned topics and understand the similarity between the topics 
+    After the pipeline is executed, we can analyze the aligned topics and understand the similarity between the topics
     of the LDA model and the topic choosen. Some visualizations can be created to better understand the alignment.
     """
 
